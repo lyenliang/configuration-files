@@ -1,0 +1,3 @@
+[alias]
+  # convenient way to show git history
+  hist = log --all --graph --decorate --oneline
